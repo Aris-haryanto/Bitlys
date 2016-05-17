@@ -5,7 +5,7 @@ Codeigniter Libraries to create Short URL with Bitly API
 ### How to install
 Follow this instruction to get your `access_token, login, apiKey` here [http://dev.bitly.com/authentication.html](http://dev.bitly.com/authentication.html)
 
-Move `libraries/Bitlys.php` to `application/libraries` on your directories
+Move `libraries/Bitlys.php` to `application/libraries` on your codeigniter directories
 
 open your controller and add this on `__construct()`
 ```php
