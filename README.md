@@ -7,7 +7,7 @@ Follow this instruction to get your `access_token, login, apiKey` here [http://d
 
 Move `libraries/Bitlys.php` to `application/libraries` on your codeigniter directories
 
-open your controller and add this on `__construct()`
+open your controller and add this on `__construct()` function
 ```php
 $config = array('access_token'  => '', // your access_token
                   'login'       => '', // your login
