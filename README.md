@@ -3,7 +3,7 @@ Codeigniter Libraries to create Short URL with Bitly API
 
 
 ### How to install
-Follow this instruction to get your `access_token, login, apiKey` [http://dev.bitly.com/authentication.html](http://dev.bitly.com/authentication.html)
+Follow this instruction to get your `access_token, login, apiKey` here [http://dev.bitly.com/authentication.html](http://dev.bitly.com/authentication.html)
 
 Move `libraries/Bitlys.php` to `application/libraries` on your directories
 
@@ -21,14 +21,14 @@ Thats it !
 ### How to use
 
 #####just have 2 functions
-- $this->bitlys->shorten($url); -> Create short bitly url
-- $this->bitlys->expand($bitlyUrl); -> Convert bitly url back to normal
+- `$this->bitlys->shorten($url)`  Create short bitly url
+- `$this->bitlys->expand($bitlyUrl)`  Convert bitly url back to normal
 
 Simple !
 
 ### License
 
-See the license [https://github.com/Aris-haryanto/Gitauth/blob/master/LICENSE](https://github.com/Aris-haryanto/Gitauth/blob/master/LICENSE)
+See the license [https://github.com/Aris-haryanto/Bitlys/blob/master/LICENSE](https://github.com/Aris-haryanto/Bitlys/blob/master/LICENSE)
 
 
 ### Author
