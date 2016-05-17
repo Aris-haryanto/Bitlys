@@ -20,9 +20,11 @@ Thats it !
 
 ### How to use
 
-#####just have 2 functions
+#####just have 4 functions
 - `$this->bitlys->shorten($url)`  Create short bitly url
 - `$this->bitlys->expand($bitlyUrl)`  Convert bitly url back to normal
+- `$this->bitlys->clicks($bitlyUrl)`  Returns the number of clicks on a single Bitlink
+- `$this->bitlys->countries($bitlyUrl)`  Returns metrics about the countries referring click traffic to a single Bitlink
 
 Simple !
 
