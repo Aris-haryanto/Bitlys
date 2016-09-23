@@ -1,5 +1,5 @@
 # Bitlys
-Libraries to create Short URL with Bitly API with Codeigniter 3
+Libraries to create Short URL with Bitly API in Codeigniter 3
 
 
 ### How to install
